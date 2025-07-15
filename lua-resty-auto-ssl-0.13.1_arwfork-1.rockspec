@@ -1,5 +1,5 @@
 package = "lua-resty-auto-ssl"
-version = "0.13.1-1.2"
+version = "0.13.1_arwfork-1"
 source = {
   url = "git://github.com/artistrunweb/lua-resty-auto-ssl.git",
   branch = "main",
